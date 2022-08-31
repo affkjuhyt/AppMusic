@@ -19,7 +19,7 @@ gem 'uglifier', '>= 1.3.0'
 # It looks like the interactive portions of materialize require jquery -Alex
 gem 'jquery-rails'
 
-gem 'omniauth', '~> 1.7.1'
+gem 'omniauth', '~> 1.9.2'
 gem 'rspotify', '~> 1.24.0'
 
 gem 'acts_as_votable'
